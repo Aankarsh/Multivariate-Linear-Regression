@@ -28,8 +28,8 @@ Print the predicted output.</br>
 ## Program:
 ```
 # Program for Univariate linear regression using the least squares method.
-# Developed by: RUDESH KANNA R
-# Register Number: 24900303
+# Developed by: AANKARSH . J
+# Register Number: 24013602
 
 
 import pandas as pd
